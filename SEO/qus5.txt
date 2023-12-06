@@ -1,0 +1,21 @@
+.Define Favicon and give an illustrative.example.?
+ANS:-
+
+It is a shortened expression for 'favorite icon. ' 
+It helps you identify the visited website among the many open tabs.
+ For example, The fancy P that appears on the tab left of the ProCreator website's address bar is our favicon.
+ People tend to confuse it with the logo
+
+ ex:-
+
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <title>Document</title>
+  </head>
+  <body>
+  </body>
+  </html>
